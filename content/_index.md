@@ -1,6 +1,6 @@
 ---
 title: Home
-intro_image: images/Image from iOS.png
+intro_image: images/austin-distel-nGc5RT2HmF0-unsplash.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
